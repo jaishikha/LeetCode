@@ -6,6 +6,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
+| [2652-sum-multiples](https://github.com/jaishikha/LeetCode/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
