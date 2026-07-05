@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/jaishikha/LeetCode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
