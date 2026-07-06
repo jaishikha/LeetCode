@@ -6,6 +6,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jaishikha/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jaishikha/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## String
@@ -27,4 +28,5 @@
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
