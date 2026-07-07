@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -37,4 +38,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
