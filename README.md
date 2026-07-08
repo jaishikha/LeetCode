@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jaishikha/LeetCode/tree/master/2652-sum-multiples) |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
