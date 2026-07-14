@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaishikha/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jaishikha/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -92,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
