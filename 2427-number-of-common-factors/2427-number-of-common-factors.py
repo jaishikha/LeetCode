@@ -6,6 +6,5 @@ class Solution:
             if(a%i == 0 and b%i == 0):
                 factors += 1
 
-        
         return factors
                     
