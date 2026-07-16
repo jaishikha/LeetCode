@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/jaishikha/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/jaishikha/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
