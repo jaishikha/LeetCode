@@ -12,6 +12,7 @@
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/jaishikha/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/jaishikha/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -69,11 +70,13 @@
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
 |  |
 | ------- |
