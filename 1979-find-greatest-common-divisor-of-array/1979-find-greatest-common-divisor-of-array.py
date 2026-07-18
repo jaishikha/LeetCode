@@ -5,9 +5,4 @@ class Solution:
         
         return gcd(min(nums), max(nums))
 
-        #Euclidean Algorithm
-        #def gcd(self, a, b):
-        #while b:
-            #a, b = b, a % b
-
-        #return a
+        
