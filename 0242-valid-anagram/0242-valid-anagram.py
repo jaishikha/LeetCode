@@ -3,4 +3,8 @@ class Solution:
         if(len(s) != len(t)):
             return False
 
-        return sorted(s) == sorted(t)
+        for i in set(s):
+            if s.count(i) != t.count(i):
+                return False
+        
+        return True
