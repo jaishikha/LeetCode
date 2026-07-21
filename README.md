@@ -31,6 +31,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jaishikha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -116,6 +117,7 @@
 | [0001-two-sum](https://github.com/jaishikha/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jaishikha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3945-digit-frequency-score](https://github.com/jaishikha/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -131,6 +133,7 @@
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
