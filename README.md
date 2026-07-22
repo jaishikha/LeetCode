@@ -69,6 +69,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/jaishikha/LeetCode/tree/master/1791-find-center-of-star-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -174,8 +176,21 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jaishikha/LeetCode/tree/master/0112-path-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jaishikha/LeetCode/tree/master/0112-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
