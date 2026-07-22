@@ -62,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jaishikha/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
