@@ -64,6 +64,7 @@
 | [0136-single-number](https://github.com/jaishikha/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,6 +122,7 @@
 | [0001-two-sum](https://github.com/jaishikha/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jaishikha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -137,6 +139,7 @@
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 ## Counting
