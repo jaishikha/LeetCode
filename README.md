@@ -66,6 +66,7 @@
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/jaishikha/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -81,6 +82,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/jaishikha/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
