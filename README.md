@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/jaishikha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jaishikha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaishikha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
@@ -65,6 +66,7 @@
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jaishikha/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jaishikha/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
