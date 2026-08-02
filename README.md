@@ -17,6 +17,7 @@
 | [0492-construct-the-rectangle](https://github.com/jaishikha/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaishikha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/jaishikha/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -83,6 +84,7 @@
 | [0486-predict-the-winner](https://github.com/jaishikha/LeetCode/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/jaishikha/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaishikha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/jaishikha/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
@@ -130,6 +133,7 @@
 | [0070-climbing-stairs](https://github.com/jaishikha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/jaishikha/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
