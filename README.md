@@ -71,6 +71,7 @@
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jaishikha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaishikha/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jaishikha/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jaishikha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
