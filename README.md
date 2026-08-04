@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaishikha/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaishikha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jaishikha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jaishikha/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaishikha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jaishikha/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,6 +169,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaishikha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jaishikha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jaishikha/LeetCode/tree/master/0191-number-of-1-bits) |
