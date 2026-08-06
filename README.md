@@ -28,6 +28,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/jaishikha/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaishikha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jaishikha/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jaishikha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jaishikha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/jaishikha/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jaishikha/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
