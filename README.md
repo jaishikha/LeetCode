@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaishikha/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/jaishikha/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
@@ -83,6 +84,7 @@
 | [0136-single-number](https://github.com/jaishikha/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jaishikha/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaishikha/LeetCode/tree/master/0283-move-zeroes) |
@@ -110,6 +112,7 @@
 | [0125-valid-palindrome](https://github.com/jaishikha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jaishikha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jaishikha/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
