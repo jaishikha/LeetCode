@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jaishikha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/jaishikha/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -161,6 +162,7 @@
 | [0190-reverse-bits](https://github.com/jaishikha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jaishikha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jaishikha/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jaishikha/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jaishikha/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaishikha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jaishikha/LeetCode/tree/master/3731-find-missing-elements) |
@@ -193,6 +196,7 @@
 | [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jaishikha/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/jaishikha/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaishikha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
