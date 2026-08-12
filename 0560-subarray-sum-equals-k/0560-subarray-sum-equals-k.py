@@ -7,9 +7,7 @@ class Solution:
      mpp[0] = 1
      for n in nums:
         psum += n
-
         cnt += mpp[psum - k]
-
         mpp[psum] += 1
 
      return cnt
