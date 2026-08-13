@@ -1,11 +1,11 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        seen = {}
+        n = len(nums)
+        mpp ={}
+        for i in range(n):
+                if nums[i] in mpp and abs(mpp[nums[i]] - i) <= k:
+                        return True
+                else:
+                    mpp[nums[i]] = i
 
-        for i, val in enumerate(nums):
-            if val in seen and i - seen[val] <= k:
-                return True
-            else:
-                seen[val] = i 
-            
         return False
