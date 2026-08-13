@@ -9,7 +9,7 @@ class Solution:
         rightProd = 1
 
         for r in range(n-1,-1,-1):
-            res[r] = res[r] * rightProd
+            res[r] *=  rightProd
             rightProd *= nums[r]
 
         return res
