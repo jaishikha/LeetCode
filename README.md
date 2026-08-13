@@ -110,6 +110,7 @@
 | [0724-find-pivot-index](https://github.com/jaishikha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jaishikha/LeetCode/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaishikha/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaishikha/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jaishikha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jaishikha/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaishikha/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
 |  |
@@ -349,6 +351,7 @@
 | [0523-continuous-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jaishikha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jaishikha/LeetCode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaishikha/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/jaishikha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/jaishikha/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Pigeonhole Principle
