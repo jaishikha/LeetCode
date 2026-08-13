@@ -107,6 +107,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jaishikha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/jaishikha/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaishikha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/jaishikha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jaishikha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jaishikha/LeetCode/tree/master/1406-stone-game-iii) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jaishikha/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/jaishikha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaishikha/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
