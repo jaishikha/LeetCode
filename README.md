@@ -378,4 +378,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/jaishikha/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
