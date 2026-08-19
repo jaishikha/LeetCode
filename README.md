@@ -90,6 +90,7 @@
 | [0035-search-insert-position](https://github.com/jaishikha/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jaishikha/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaishikha/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jaishikha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/jaishikha/LeetCode/tree/master/0392-is-subsequence) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaishikha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jaishikha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jaishikha/LeetCode/tree/master/0191-number-of-1-bits) |
