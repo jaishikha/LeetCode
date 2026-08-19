@@ -125,6 +125,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jaishikha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/jaishikha/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
