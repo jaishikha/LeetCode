@@ -117,6 +117,7 @@
 | [0561-array-partition](https://github.com/jaishikha/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaishikha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jaishikha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/jaishikha/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jaishikha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jaishikha/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -172,6 +173,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jaishikha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaishikha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/jaishikha/LeetCode/tree/master/0704-binary-search) |
 ## Brainteaser
 |  |
 | ------- |
