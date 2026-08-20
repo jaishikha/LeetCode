@@ -170,6 +170,7 @@
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/jaishikha/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jaishikha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaishikha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -408,4 +409,8 @@
 | [1148-article-views-i](https://github.com/jaishikha/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/jaishikha/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jaishikha/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jaishikha/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
