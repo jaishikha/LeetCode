@@ -139,6 +139,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jaishikha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/jaishikha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/jaishikha/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/jaishikha/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -354,6 +355,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/jaishikha/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jaishikha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/jaishikha/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
