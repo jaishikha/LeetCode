@@ -30,6 +30,7 @@
 | [2652-sum-multiples](https://github.com/jaishikha/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jaishikha/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaishikha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/jaishikha/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaishikha/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jaishikha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -70,6 +71,7 @@
 | [0258-add-digits](https://github.com/jaishikha/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jaishikha/LeetCode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaishikha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/jaishikha/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/jaishikha/LeetCode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/jaishikha/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
