@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/jaishikha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jaishikha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jaishikha/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaishikha/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaishikha/LeetCode/tree/master/0070-climbing-stairs) |
@@ -96,6 +97,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jaishikha/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jaishikha/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/jaishikha/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jaishikha/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
@@ -356,6 +358,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaishikha/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaishikha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/jaishikha/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jaishikha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
