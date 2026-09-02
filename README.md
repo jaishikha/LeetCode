@@ -214,6 +214,7 @@
 | [0278-first-bad-version](https://github.com/jaishikha/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jaishikha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaishikha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/jaishikha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/jaishikha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jaishikha/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jaishikha/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -482,6 +483,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jaishikha/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jaishikha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
 | ------- |
