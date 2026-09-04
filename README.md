@@ -184,6 +184,7 @@
 | [0125-valid-palindrome](https://github.com/jaishikha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaishikha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaishikha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaishikha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaishikha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaishikha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jaishikha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jaishikha/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -314,6 +316,7 @@
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jaishikha/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jaishikha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaishikha/LeetCode/tree/master/0242-valid-anagram) |
@@ -505,6 +508,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/jaishikha/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jaishikha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaishikha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaishikha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -536,4 +540,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jaishikha/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
