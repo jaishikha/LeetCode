@@ -8,31 +8,23 @@ class Solution:
         if head is None or head.next is None:
             return head
 
-        list_val = []
-        res = []
         curr = head
+        smallDummy = ListNode(0)
+        largeDummy = ListNode(0)
+        small = smallDummy
+        large = largeDummy
 
         while curr:
-            list_val.append(curr.val)
+            if curr.val < x:
+                small.next = curr
+                small = small.next
+            else:
+                large.next = curr
+                large = large.next
+            
             curr = curr.next
 
+        small.next = largeDummy.next
+        large.next = None
+        return smallDummy.next
         
-        n = len(list_val)
-
-        for num in list_val:
-            if num < x:
-                res.append(num)
-
-        for num in list_val:
-            if num >= x:
-                res.append(num)
-  
-        curr = head
-        index = 0
-
-        while curr:
-            curr.val = res[index]
-            curr = curr.next
-            index += 1
-
-        return head
