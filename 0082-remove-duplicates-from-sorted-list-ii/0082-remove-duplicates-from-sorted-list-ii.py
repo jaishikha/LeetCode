@@ -8,36 +8,19 @@ class Solution:
         if head is None or head.next is None:
             return head
 
-        nums = []
+        dummy = ListNode(0)
+        dummy.next = head
+        prev = dummy
+
         curr = head
 
         while curr:
-            nums.append(curr.val)
+            if curr.next != None and curr.val == curr.next.val:
+                while curr.next and curr.val == curr.next.val:
+                    curr = curr.next
+                prev.next = curr.next
+            else:
+                prev = prev.next
             curr = curr.next
 
-        mpp = Counter(nums)
-
-        list_val = []
-        curr = head
-
-        while curr:
-            if mpp[curr.val] == 1:
-                list_val.append(curr.val)
-            curr = curr.next
-
-        if not list_val:
-            return None
-
-        curr = head
-
-        for i in range(len(list_val)):
-             curr.val = list_val[i]
-             curr = curr.next
-
-        curr = head
-
-        for i in range(1, len(list_val)):
-            curr = curr.next
-
-        curr.next = None
-        return head
+        return dummy.next
