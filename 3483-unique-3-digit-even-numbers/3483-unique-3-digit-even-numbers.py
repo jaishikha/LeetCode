@@ -1,26 +1,23 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        n = len(digits)
-        seen = set()
+        freq = Counter(digits)
 
-        for h in range(n):
-            if digits[h] == 0:
-                continue
+        res = 0
 
-            for t in range(n):
-                if t == h:
-                    continue
+        for num in range(100, 1000, 2):
+            h = num // 100
+            t = (num // 10) % 10
+            o = num % 10
 
-                for u in range(n):
-                    if u == h or u == t:
-                        continue
+            freq[h] -= 1
+            freq[t] -= 1
+            freq[o] -= 1
 
-                    if digits[u] % 2 != 0:
-                        continue
+            if freq[h] >= 0 and freq[t] >= 0 and freq[o] >= 0:
+                res += 1
 
-                    num = digits[h] * 100 + digits[t] * 10 + digits[u]
-                    seen.add(num)
+            freq[h] += 1
+            freq[t] += 1
+            freq[o] += 1    
 
-        return len(seen)
-
-            
+        return res
