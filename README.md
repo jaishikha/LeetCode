@@ -166,6 +166,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaishikha/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaishikha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jaishikha/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaishikha/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -306,6 +307,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaishikha/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaishikha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaishikha/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jaishikha/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaishikha/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaishikha/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -547,6 +549,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jaishikha/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jaishikha/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
