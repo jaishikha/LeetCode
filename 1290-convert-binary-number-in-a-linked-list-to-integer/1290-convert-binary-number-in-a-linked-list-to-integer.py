@@ -7,6 +7,14 @@ class Solution:
     def getDecimalValue(self, head: Optional[ListNode]) -> int:
         ans = 0
         while head:
-            ans = 2 * ans + head.val
+            ans = (ans << 1) | head.val
             head = head.next
         return ans
+        
+    
+        
+        # ans = 0
+        # while head:
+        #     ans = 2 * ans + head.val
+        #     head = head.next
+        # return ans
