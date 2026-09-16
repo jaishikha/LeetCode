@@ -24,6 +24,7 @@
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaishikha/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/jaishikha/LeetCode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/jaishikha/LeetCode/tree/master/1492-the-kth-factor-of-n) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
@@ -270,6 +272,7 @@
 | [0486-predict-the-winner](https://github.com/jaishikha/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/jaishikha/LeetCode/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -586,4 +589,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaishikha/LeetCode/tree/master/0836-rectangle-overlap) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
