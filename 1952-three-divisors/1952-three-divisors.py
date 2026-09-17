@@ -1,10 +1,12 @@
 class Solution:
     def isThree(self, n: int) -> bool:
-        l = []
+        cnt = 3
+
         for i in range(1, n+1):
             if n % i == 0:
-                l.append(i)
-
-        if len(l) == 3:
+                cnt -= 1
+        
+        if cnt == 0:
             return True
-        return False
+        else:
+            return False
