@@ -43,6 +43,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaishikha/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jaishikha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaishikha/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jaishikha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/jaishikha/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -100,6 +101,7 @@
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2748-number-of-beautiful-pairs](https://github.com/jaishikha/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jaishikha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -183,6 +185,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jaishikha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaishikha/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaishikha/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaishikha/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jaishikha/LeetCode/tree/master/3731-find-missing-elements) |
@@ -328,6 +331,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jaishikha/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaishikha/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaishikha/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jaishikha/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/jaishikha/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -377,6 +381,7 @@
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
 | [2748-number-of-beautiful-pairs](https://github.com/jaishikha/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaishikha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Graph Theory
 |  |
 | ------- |
