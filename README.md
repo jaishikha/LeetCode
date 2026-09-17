@@ -580,10 +580,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
