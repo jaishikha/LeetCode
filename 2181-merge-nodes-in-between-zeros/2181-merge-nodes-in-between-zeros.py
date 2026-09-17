@@ -5,29 +5,20 @@
 #         self.next = next
 class Solution:
     def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        list_val = []
-        curr = head
-        while curr:
-            list_val.append(curr.val)
-            curr = curr.next
-
-        res = []
-        n = len(list_val)
+        prev = head
+        curr = head.next
         summ = 0
 
-        for i in range(1, n):
-            if list_val[i] != 0:
-                summ += list_val[i]
-            else:
-                res.append(summ)
+        while curr:
+            if curr.val == 0:
+                prev = prev.next
+                prev.val = summ
                 summ = 0
-
-        curr = head
-
-        for i in range(len(res)):
-            curr.val = res[i]  
-            if i == len(res) - 1:
-                curr.next = None
-                break
+            else:
+                summ += curr.val
             curr = curr.next
-        return head
+        prev.next = None
+
+        return head.next
+            
+            
