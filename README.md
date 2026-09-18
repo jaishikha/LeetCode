@@ -169,6 +169,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaishikha/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jaishikha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jaishikha/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/jaishikha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jaishikha/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jaishikha/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -370,6 +371,7 @@
 | [0905-sort-array-by-parity](https://github.com/jaishikha/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jaishikha/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jaishikha/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jaishikha/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaishikha/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
