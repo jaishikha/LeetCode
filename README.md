@@ -514,6 +514,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jaishikha/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -588,6 +589,7 @@
 | [0234-palindrome-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaishikha/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/jaishikha/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
