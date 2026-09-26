@@ -79,6 +79,7 @@
 | [1447-simplified-fractions](https://github.com/jaishikha/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaishikha/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/jaishikha/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaishikha/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaishikha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -177,6 +178,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/jaishikha/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/jaishikha/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaishikha/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -333,6 +335,7 @@
 | [0904-fruit-into-baskets](https://github.com/jaishikha/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/jaishikha/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jaishikha/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/jaishikha/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaishikha/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
