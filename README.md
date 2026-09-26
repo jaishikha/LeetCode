@@ -196,6 +196,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaishikha/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/jaishikha/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/jaishikha/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaishikha/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaishikha/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jaishikha/LeetCode/tree/master/3731-find-missing-elements) |
@@ -276,6 +277,7 @@
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/jaishikha/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [0191-number-of-1-bits](https://github.com/jaishikha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jaishikha/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jaishikha/LeetCode/tree/master/0389-find-the-difference) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/jaishikha/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaishikha/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
