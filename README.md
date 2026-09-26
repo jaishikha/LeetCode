@@ -32,6 +32,7 @@
 | [1952-three-divisors](https://github.com/jaishikha/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaishikha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jaishikha/LeetCode/tree/master/2029-stone-game-ix) |
+| [2396-strictly-palindromic-number](https://github.com/jaishikha/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/jaishikha/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/jaishikha/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -245,6 +246,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jaishikha/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/jaishikha/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/jaishikha/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -276,6 +278,7 @@
 | [0292-nim-game](https://github.com/jaishikha/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/jaishikha/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jaishikha/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
