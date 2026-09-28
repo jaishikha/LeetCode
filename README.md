@@ -79,6 +79,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1447-simplified-fractions](https://github.com/jaishikha/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaishikha/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaishikha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/jaishikha/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -621,6 +622,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/jaishikha/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaishikha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
@@ -658,4 +660,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/jaishikha/LeetCode/tree/master/1952-three-divisors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaishikha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
