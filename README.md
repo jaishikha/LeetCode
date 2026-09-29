@@ -23,6 +23,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jaishikha/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/jaishikha/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/jaishikha/LeetCode/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jaishikha/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/jaishikha/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jaishikha/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -342,6 +343,7 @@
 | [0523-continuous-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jaishikha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/jaishikha/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jaishikha/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/jaishikha/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jaishikha/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaishikha/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jaishikha/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jaishikha/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Nim Game
 |  |
 | ------- |
