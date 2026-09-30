@@ -134,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/jaishikha/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaishikha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaishikha/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/jaishikha/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jaishikha/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaishikha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +223,7 @@
 | [0027-remove-element](https://github.com/jaishikha/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaishikha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/jaishikha/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/jaishikha/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jaishikha/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jaishikha/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -379,6 +381,7 @@
 | [0015-3sum](https://github.com/jaishikha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaishikha/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jaishikha/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jaishikha/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaishikha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/jaishikha/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jaishikha/LeetCode/tree/master/0169-majority-element) |
@@ -680,4 +683,12 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jaishikha/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaishikha/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaishikha/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
