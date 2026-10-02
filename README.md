@@ -100,6 +100,7 @@
 | [0867-transpose-matrix](https://github.com/jaishikha/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/jaishikha/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jaishikha/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaishikha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jaishikha/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Number Theory
@@ -194,6 +195,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaishikha/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jaishikha/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/jaishikha/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/jaishikha/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
