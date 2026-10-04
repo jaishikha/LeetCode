@@ -570,6 +570,7 @@
 | [0177-nth-highest-salary](https://github.com/jaishikha/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/jaishikha/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/jaishikha/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/jaishikha/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/jaishikha/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/jaishikha/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/jaishikha/LeetCode/tree/master/0197-rising-temperature) |
