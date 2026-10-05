@@ -80,6 +80,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaishikha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/jaishikha/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jaishikha/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/jaishikha/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jaishikha/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1447-simplified-fractions](https://github.com/jaishikha/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaishikha/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -649,6 +650,7 @@
 | [0020-valid-parentheses](https://github.com/jaishikha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jaishikha/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jaishikha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/jaishikha/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaishikha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jaishikha/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
@@ -691,6 +693,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaishikha/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/jaishikha/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaishikha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Primality Test
 |  |
