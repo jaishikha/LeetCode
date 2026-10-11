@@ -203,6 +203,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaishikha/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jaishikha/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/jaishikha/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jaishikha/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaishikha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/jaishikha/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaishikha/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -434,6 +435,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/jaishikha/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/jaishikha/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jaishikha/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/jaishikha/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaishikha/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaishikha/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
